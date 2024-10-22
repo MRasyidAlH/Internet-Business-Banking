@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Approval</name>
+   <tag></tag>
+   <elementGuidId>ba51a46b-fb7c-47fc-a77f-cb5c2dcb7830</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-submenu.ant-menu-submenu-inline.ant-menu-submenu-active > div.ant-menu-submenu-title > span.ant-menu-title-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Approval' or . = 'Approval')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Approval&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6cda9b50-0f30-4203-a86f-6750c6bf89c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-menu-title-content</value>
+      <webElementGuid>6e5f3424-971a-4eeb-8938-1a758ee885af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approval</value>
+      <webElementGuid>41717241-b353-4feb-bdcc-fd329ed5797b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/aside[@class=&quot;ant-layout-sider ant-layout-sider-dark jss1168&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/div[1]/div[@class=&quot;jss1169&quot;]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-inline ant-menu-light&quot;]/li[@class=&quot;ant-menu-submenu ant-menu-submenu-inline ant-menu-submenu-active&quot;]/div[@class=&quot;ant-menu-submenu-title&quot;]/span[@class=&quot;ant-menu-title-content&quot;]</value>
+      <webElementGuid>a3b91fc1-3baa-4e9f-a26f-4cd5a1a0d8ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/aside/div/div/div/ul/li[5]/div/span</value>
+      <webElementGuid>56f7b056-ec38-4af4-a407-bc06c10b03a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Matrix'])[1]/following::span[1]</value>
+      <webElementGuid>873623ec-7bdb-4a28-98b3-23f70c17aa07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audit Trail'])[1]/following::span[2]</value>
+      <webElementGuid>f9d73bc0-255f-417e-9c93-2f45a7910389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Management'])[1]/preceding::span[1]</value>
+      <webElementGuid>64a7c93a-beda-4cd9-85ee-2f1117dfb87f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Global Maintenance'])[1]/preceding::span[2]</value>
+      <webElementGuid>3b4fda42-3d60-4a6c-98b7-195f7ef6887b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approval']/parent::*</value>
+      <webElementGuid>f0663a09-aa4b-4f2c-8d01-9e6929e03a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/span</value>
+      <webElementGuid>7aec0894-6c57-4035-876f-6c9592fdec6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Approval' or . = 'Approval')]</value>
+      <webElementGuid>1abe68c1-dd19-4394-8cee-591866de8c46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

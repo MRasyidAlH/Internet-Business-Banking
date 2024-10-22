@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TieringSlab</name>
+   <tag></tag>
+   <elementGuidId>d8cf015b-59aa-44c2-8beb-b0c83b9999f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item.ant-menu-item-active.ant-menu-item-only-child > span.ant-menu-title-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Tiering/Slab' or . = 'Tiering/Slab')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Tiering/Slab&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da4bf47c-2712-425e-9ea5-54d47f9381cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-menu-title-content</value>
+      <webElementGuid>63e1ed75-71d5-4c90-afc8-7e225ddf51dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiering/Slab</value>
+      <webElementGuid>2eed87d0-8b8e-426e-9804-a2c12bc9ae97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-menu-uuid-08430-1-7-popup&quot;)/li[@class=&quot;ant-menu-item ant-menu-item-active ant-menu-item-only-child&quot;]/span[@class=&quot;ant-menu-title-content&quot;]</value>
+      <webElementGuid>90440178-78e0-4451-8a07-01bfd5b1c49a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='rc-menu-uuid-08430-1-7-popup']/li[8]/span</value>
+      <webElementGuid>618f8df4-142b-4217-9c14-7494ed45593a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Package'])[1]/following::span[1]</value>
+      <webElementGuid>1eb767fb-e1fb-4081-b25b-3a808ce8d0e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Charge Package'])[1]/following::span[2]</value>
+      <webElementGuid>a1fc119a-729c-4171-8bb0-a3adfa39a1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch Segmentation'])[1]/preceding::span[1]</value>
+      <webElementGuid>06190b8c-0b4f-4c05-bdcd-e2675e96833a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Menu'])[1]/preceding::span[2]</value>
+      <webElementGuid>91ae189a-7281-4acb-9e1e-8287c90ce882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tiering/Slab']/parent::*</value>
+      <webElementGuid>71db60f9-5f58-4627-bc22-daf66ee281d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/span</value>
+      <webElementGuid>ee3420c8-7a2d-407c-9581-f64b729d0b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tiering/Slab' or . = 'Tiering/Slab')]</value>
+      <webElementGuid>00470a5a-c8b3-4427-a134-4d0d07fd0f41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

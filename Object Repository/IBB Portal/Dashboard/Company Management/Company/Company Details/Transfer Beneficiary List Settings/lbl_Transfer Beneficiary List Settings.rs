@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_Transfer Beneficiary List Settings</name>
+   <tag></tag>
+   <elementGuidId>68fedb91-6d59-4b4a-ab64-6959ba05815c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.jss23815</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/main/div[2]/div[2]/div/div[2]/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Transfer Beneficiary List Settings&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>2d643fce-0b13-486b-aca0-9411a97c9663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss23815</value>
+      <webElementGuid>dd63de21-c7df-441b-bac7-dd9465b82a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer Beneficiary List Settings</value>
+      <webElementGuid>0dcc9ef4-3f89-40db-8f2f-1b98be46e597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;jss23647&quot;]/div[@class=&quot;jss23648&quot;]/div[1]/div[2]/div[@class=&quot;jss23805&quot;]/div[@class=&quot;jss23806&quot;]/div[1]/div[1]/div[@class=&quot;jss23811&quot;]/h1[@class=&quot;jss23815&quot;]</value>
+      <webElementGuid>48e27243-6df3-44e9-8c10-0446346aea16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div[2]/div[2]/div/div[2]/div/div/div/div/div/h1</value>
+      <webElementGuid>c2ecde49-77d9-4c0b-b839-1ef9f0d2a246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Segmentation Settings'])[1]/following::h1[1]</value>
+      <webElementGuid>93f59a42-36c6-4699-b597-91dddbca66af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Management Token'])[2]/following::h1[1]</value>
+      <webElementGuid>9214901f-0e0c-4bbe-9bef-32e5e80888fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This setting can only be done once, so make sure you set it correctly.'])[1]/preceding::h1[1]</value>
+      <webElementGuid>eee81325-a1a5-46a4-a1db-16ae2f21440c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/preceding::h1[1]</value>
+      <webElementGuid>1f286e0a-b1da-4923-b014-2a040ef444b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/h1</value>
+      <webElementGuid>6559935f-10b9-48f2-a7cb-563067b27087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Transfer Beneficiary List Settings' or . = 'Transfer Beneficiary List Settings')]</value>
+      <webElementGuid>66033471-a5c1-4b93-b63e-de51074da002</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

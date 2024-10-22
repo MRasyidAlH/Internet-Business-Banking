@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>(DONE)Ada issue&#xd;
+-di halaman pop up konfirmasi setelah klik no.tombol save tidak bisa di klik</description>
+   <name>7thYes PopUp Edit User Settings</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>382daadc-7fda-4170-adb0-405d6e04a8bd</testCaseGuid>
+</TestCaseEntity>

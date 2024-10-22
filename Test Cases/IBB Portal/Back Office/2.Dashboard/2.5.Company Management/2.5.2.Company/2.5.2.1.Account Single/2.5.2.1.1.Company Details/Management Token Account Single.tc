@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Management Token Account Single</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15d19ab4-8fab-42ca-9a51-52da36cb8aef</testCaseGuid>
+</TestCaseEntity>

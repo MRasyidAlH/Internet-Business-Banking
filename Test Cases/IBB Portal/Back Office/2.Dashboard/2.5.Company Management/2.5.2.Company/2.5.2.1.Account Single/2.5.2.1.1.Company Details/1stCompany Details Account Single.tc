@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1stCompany Details Account Single</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ba5d5f0-c0d3-4818-a207-c81d2a72b63a</testCaseGuid>
+</TestCaseEntity>

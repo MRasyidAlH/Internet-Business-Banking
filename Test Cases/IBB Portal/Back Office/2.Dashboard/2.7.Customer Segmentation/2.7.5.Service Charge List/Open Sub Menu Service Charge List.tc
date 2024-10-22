@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Open Sub Menu Service Charge List</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bf7265d-afb7-41e3-9a40-18433e6b6989</testCaseGuid>
+</TestCaseEntity>

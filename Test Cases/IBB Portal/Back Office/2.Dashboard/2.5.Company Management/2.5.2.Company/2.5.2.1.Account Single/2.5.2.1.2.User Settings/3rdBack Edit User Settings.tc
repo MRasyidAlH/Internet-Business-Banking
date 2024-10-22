@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>(DONE)Ada issue&#xd;
+-di halaman edit user data akun single,klik back.refer pagenya belum sesuai</description>
+   <name>3rdBack Edit User Settings</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff0e65c1-e4d4-46a2-8218-e7959e8fd5f7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Open Sub Menu Transaction Limit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>76de6416-6765-42ee-afe6-a5cfdc5082bd</testCaseGuid>
+</TestCaseEntity>

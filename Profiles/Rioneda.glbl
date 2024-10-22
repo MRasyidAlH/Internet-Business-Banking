@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Rioneda</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Waktu Timeout</description>
+      <initValue>3</initValue>
+      <name>TimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Penyimpanan data sementara</description>
+      <initValue>''</initValue>
+      <name>DataTemporary</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CorpID</description>
+      <initValue>''</initValue>
+      <name>CorpID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Business name/corp name</description>
+      <initValue>''</initValue>
+      <name>BusinessName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>NIK</description>
+      <initValue>0</initValue>
+      <name>NIK</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>UserId</description>
+      <initValue>''</initValue>
+      <name>UserId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nomor HP pengguna</description>
+      <initValue>0</initValue>
+      <name>MobilePhone</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Email Pengguna</description>
+      <initValue>''</initValue>
+      <name>Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Fullname Pengguna</description>
+      <initValue>''</initValue>
+      <name>Fullname</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

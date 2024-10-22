@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_User</name>
+   <tag></tag>
+   <elementGuidId>04f8ee18-3605-4872-b7aa-4de34a22fcbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.ant-radio-wrapper.jss23829 > span:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/main/div[2]/div[2]/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/label/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;User&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>030427ac-0f10-47ba-8147-26c044da8701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User</value>
+      <webElementGuid>4f91b102-5f86-48e4-9d24-99874eac8de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;jss23647&quot;]/div[@class=&quot;jss23648&quot;]/div[1]/div[2]/div[@class=&quot;jss23805&quot;]/div[@class=&quot;jss23806&quot;]/div[1]/div[1]/div[@class=&quot;jss23811&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1&quot;]/div[2]/div[@class=&quot;MuiBox-root jss23785&quot;]/div[1]/div[@class=&quot;ant-radio-group ant-radio-group-outline ant-radio-group-large&quot;]/label[@class=&quot;ant-radio-wrapper jss23829&quot;]/span[2]</value>
+      <webElementGuid>3c3f34ff-b839-4e7f-b736-fdc8d3b9fdc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div[2]/div[2]/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/label/span[2]</value>
+      <webElementGuid>175aa2f8-6398-4479-a1ef-1b046481923c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This setting can only be done once, so make sure you set it correctly.'])[1]/following::span[3]</value>
+      <webElementGuid>8bece828-5970-4ae0-81b9-1bcc4496621c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Beneficiary List Settings'])[2]/following::span[3]</value>
+      <webElementGuid>3bffb1a2-7151-4dce-9175-041ecfbcc2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Displays a list of transfer recipients by user.'])[1]/preceding::span[1]</value>
+      <webElementGuid>d38f62a8-da58-4fa0-9e51-66038b38653d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate'])[1]/preceding::span[3]</value>
+      <webElementGuid>560f051f-ba43-45d9-bcd8-142af6a8210e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User']/parent::*</value>
+      <webElementGuid>678c8e7b-c7e3-4dd1-865b-a673fe76d8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span[2]</value>
+      <webElementGuid>109c8e3a-55a8-42b0-9a09-af56ff391136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'User' or . = 'User')]</value>
+      <webElementGuid>36dbca89-8453-4d0d-a194-1fc48705ac89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

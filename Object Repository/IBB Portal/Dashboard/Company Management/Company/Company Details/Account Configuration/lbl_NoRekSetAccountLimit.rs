@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_NoRekSetAccountLimit</name>
+   <tag></tag>
+   <elementGuidId>51a62fc8-b688-4808-8b9e-7f3d710fe199</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.jss5859</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/main/div[2]/div[2]/div/div[2]/form/div/div[2]/div[2]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;1401880019680&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6336ab1e-2bce-4a45-985c-8ee1babc5b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss5859</value>
+      <webElementGuid>d15d70d7-a942-4653-a68f-8e5e4c84ab9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1401880019680</value>
+      <webElementGuid>8e7eb0e4-d80c-46d3-86ff-75d39da9e7d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;jss5836&quot;]/div[@class=&quot;jss5837&quot;]/div[1]/div[2]/form[1]/div[@class=&quot;MuiPaper-root jss5855 MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;jss5857&quot;]/div[@class=&quot;MuiPaper-root content MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[2]/div[@class=&quot;jss5859&quot;]</value>
+      <webElementGuid>72fe7038-3f7b-477a-8c3d-569fe33984e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div[2]/div[2]/div/div[2]/form/div/div[2]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>77b724e2-0a21-491b-ac06-29d902e51448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tab Bisnis Perorangan'])[1]/following::div[1]</value>
+      <webElementGuid>b30b0ccc-9ec8-4a25-8ffc-1d52b6eb1b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Account Limit'])[1]/following::div[10]</value>
+      <webElementGuid>858e7da0-79fa-49ad-a228-456dc7826cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment'])[1]/preceding::div[1]</value>
+      <webElementGuid>1c3ea48f-cb4e-499e-a7f2-0215d7247c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Limits :'])[1]/preceding::div[3]</value>
+      <webElementGuid>893d32ae-6cbf-486a-a5bc-a3798da6a71e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>2dc877dd-7183-461d-acc3-d317546f5fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1401880019680' or . = '1401880019680')]</value>
+      <webElementGuid>81bac807-536b-4d76-b759-e18a9332aa94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

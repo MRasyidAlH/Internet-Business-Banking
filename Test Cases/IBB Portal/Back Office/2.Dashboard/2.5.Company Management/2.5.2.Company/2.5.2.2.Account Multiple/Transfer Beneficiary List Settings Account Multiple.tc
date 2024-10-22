@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Transfer Beneficiary List Settings Account Multiple</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b167329-07ad-4fda-b8ea-f63c7d99fa55</testCaseGuid>
+</TestCaseEntity>
